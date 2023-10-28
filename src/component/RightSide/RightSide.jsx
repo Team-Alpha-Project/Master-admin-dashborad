@@ -1,6 +1,8 @@
 import react from 'react'
 import './RIghtSide.css'
 import CustomerReview from '../CustomerReview/CustomerReview'
+import Updates from '../Updates/Updates'
+
 
 const RightSide = ()=>{
     return (
